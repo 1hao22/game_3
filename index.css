@@ -1,0 +1,49 @@
+*{
+    font-family: 'cwTeXYen';
+    font-weight: 700;
+}
+.background{
+position: absolute;
+top: 0px;
+left: 0px;
+width: 1194px;
+height: 834px;
+}
+.leave{
+    position: absolute;
+    left: 1068px;
+    top: 74px;    
+}
+.one{
+    position: absolute;
+    top: 230px;
+    left: 590px;
+    font-size: 45px;
+    line-height: 50px;
+    width: 400px;
+    color: rgb(60, 60, 60);
+}
+.two{
+    position: absolute;
+    top: 280px;
+    left: 590px;
+    font-size: 45px;
+    line-height: 50px;
+    width: 400px;
+    color: rgb(60, 60, 60);
+}
+.teeth{
+    position: absolute;
+    top: 163px;
+    left: 80px;
+}
+.teethman{
+    position: absolute;
+    top: 240px;
+    left: 546px;
+}
+.start{
+    position: absolute;
+    top: 286px;
+    left: 1025px;
+}
